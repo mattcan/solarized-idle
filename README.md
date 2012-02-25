@@ -1,4 +1,4 @@
-# Solarized for Gedit
+# Solarized for IDLE
 
 ## Precision colors for machines and people - **Now with more IDLEness!**
 
