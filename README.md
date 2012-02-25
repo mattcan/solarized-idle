@@ -1,6 +1,6 @@
 # Solarized for Gedit
 
-## Precision colors for machines and people - **Now with more Gedit!**
+## Precision colors for machines and people - **Now with more IDLEness!**
 
 ---
 
@@ -8,7 +8,7 @@
 
 Solarized was created by [Ethan Schoonover][ES] and you can find out more
 about the design work that went into it on his [project page][ES-solarized]. If
-you would like to use Solarized in editors other than Gedit or on your terminal,
+you would like to use Solarized in editors other than IDLE or on your terminal,
 Ethan hosts the [main repository][SolarizedRepo] which combines all the available
 ports in one place.
 
