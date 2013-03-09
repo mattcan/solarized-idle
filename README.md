@@ -40,5 +40,5 @@ these files:
 [ES-Solarized]: http://ethanschoonover.com/solarized
 [SolarizedRepo]: https://github.com/altercation/solarized
 [MC]: http://matthewcantelon.ca
-[LightImg]: https://github.com/mattcan/solarized-gedit/raw/master/light.png
-[DarkImg]: https://github.com/mattcan/solarized-gedit/raw/master/dark.png
+[LightImg]: https://raw.github.com/mattcan/solarized-idle/master/light.png 
+[DarkImg]: https://raw.github.com/mattcan/solarized-idle/master/dark.png 
