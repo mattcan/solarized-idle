@@ -15,7 +15,7 @@ ports in one place.
 ### Solarized for IDLE
 
 Solarized was initially ported for IDLE by [Matthew Cantelon][MC] and can be
-found at <http://github.com/mattcan/solarized-idle>.
+found at <https://github.com/mattcan/solarized-idle>.
 
 ### Screenshots
 
@@ -40,5 +40,5 @@ these files:
 [ES-Solarized]: http://ethanschoonover.com/solarized
 [SolarizedRepo]: https://github.com/altercation/solarized
 [MC]: http://matthewcantelon.ca
-[LightImg]: https://github.com/mattcan/solarized-gedit/raw/master/img/solarized_light.png
-[DarkImg]: https://github.com/mattcan/solarized-gedit/raw/master/img/solarized_dark.png
+[LightImg]: https://github.com/mattcan/solarized-gedit/raw/master/light.png
+[DarkImg]: https://github.com/mattcan/solarized-gedit/raw/master/dark.png
