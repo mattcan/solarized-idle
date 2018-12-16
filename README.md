@@ -1,3 +1,5 @@
+*Project is no longer maintained. Please reach out to [@mattcan](https://github.com/mattcan) if you would like to take ownership.*
+
 # Solarized for IDLE
 
 ## Precision colors for machines and people - **Now with more IDLEness!**
